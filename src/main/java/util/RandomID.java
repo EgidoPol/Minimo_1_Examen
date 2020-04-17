@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa;
+package util;
 
 public class RandomID {
     public static String getId() {
